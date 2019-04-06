@@ -1,1 +1,1 @@
-Sociable is a social media app that finds meaningful, interesting, and unique platonic friendships. Users are matched based on their location, personality traits, and common interests. Messaging occurs in real-time using Google Firebase servers.
+Sociable is a social media app that finds meaningful and unique platonic friendships. Users are matched together based on their location, personality traits, and common interests. Direct messaging occurs in real-time using Google Firebase servers.
